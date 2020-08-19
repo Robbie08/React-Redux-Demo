@@ -1,4 +1,4 @@
-# Stock Market Tool
+# React-Redux-Demo
 
 ## Available Scripts
 
